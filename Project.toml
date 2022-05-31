@@ -1,0 +1,4 @@
+name = "ShapesAISC"
+uuid = "b99f65f6-617c-40fa-81ea-f4778965b89e"
+authors = ["Cris Moen <cris.moen@runtosolve.com>"]
+version = "0.1.0"
